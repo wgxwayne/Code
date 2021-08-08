@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <!--MyBatis 原生配置文件-->
+
+    <!--别名映射，例如：在 BookMapper.xml 中就可以使用 Books 了-->
+    <!--有两种方式，一种是针对具体的取别名，另外一种是扫包-->
+    <typeAliases>
+        <!--第一种-->
+        <!--<typeAlias type="indi.wgx.pojo.Books" alias="Books"/>-->
+        <!--第二种，包下的所有实体默认给一个别名，别名就是实体各自的名称-->
+        <package name="indi.wgx.pojo"/>
+
+    </typeAliases>
+
+
+    <!--加载映射，对应dao包中的 BookMapper.xml-->
+    <mappers>
+        <mapper class="indi.wgx.dao.BookMapper"/>
+    </mappers>
+
+
+</configuration>
