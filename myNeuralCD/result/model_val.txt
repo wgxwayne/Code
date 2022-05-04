@@ -1,0 +1,55 @@
+epoch= 1, accuracy= 0.709907, rmse= 0.442317, auc= 0.803271
+epoch= 1, accuracy= 0.716797, rmse= 0.441954, auc= 0.802285
+epoch= 2, accuracy= 0.705631, rmse= 0.435973, auc= 0.800104
+epoch= 3, accuracy= 0.693870, rmse= 0.455554, auc= 0.786131
+epoch= 4, accuracy= 0.683654, rmse= 0.477064, auc= 0.775153
+epoch= 5, accuracy= 0.677002, rmse= 0.495430, auc= 0.763473
+epoch= 1, accuracy= 0.724994, rmse= 0.431005, auc= 0.805125
+epoch= 2, accuracy= 0.709670, rmse= 0.434934, auc= 0.799794
+epoch= 3, accuracy= 0.691732, rmse= 0.460970, auc= 0.782762
+epoch= 4, accuracy= 0.680565, rmse= 0.482084, auc= 0.767784
+epoch= 5, accuracy= 0.671656, rmse= 0.501774, auc= 0.755361
+
+epoch= 1, accuracy= 0.726063, rmse= 0.427490, auc= 0.805595
+epoch= 2, accuracy= 0.720242, rmse= 0.434697, auc= 0.802894
+epoch= 3, accuracy= 0.705750, rmse= 0.456831, auc= 0.787103
+epoch= 4, accuracy= 0.687455, rmse= 0.481541, auc= 0.772753
+epoch= 5, accuracy= 0.678308, rmse= 0.498442, auc= 0.760807
+epoch= 1, accuracy= 0.720599, rmse= 0.427513, auc= 0.804385
+epoch= 2, accuracy= 0.716085, rmse= 0.436084, auc= 0.800452
+epoch= 3, accuracy= 0.701117, rmse= 0.460850, auc= 0.783048
+epoch= 1, accuracy= 0.719173, rmse= 0.440317, auc= 0.799598
+epoch= 2, accuracy= 0.722499, rmse= 0.428181, auc= 0.803185
+epoch= 3, accuracy= 0.713352, rmse= 0.438616, auc= 0.798151
+epoch= 4, accuracy= 0.700166, rmse= 0.453371, auc= 0.788269
+epoch= 5, accuracy= 0.688525, rmse= 0.470491, auc= 0.777609
+epoch= 1, accuracy= 0.513899, rmse= 0.492215, auc= 0.781010
+epoch= 2, accuracy= 0.722024, rmse= 0.443845, auc= 0.799426
+epoch= 3, accuracy= 0.724044, rmse= 0.430193, auc= 0.805048
+epoch= 4, accuracy= 0.716441, rmse= 0.428505, auc= 0.805621
+epoch= 5, accuracy= 0.703968, rmse= 0.438834, auc= 0.798827
+epoch= 1, accuracy= 0.579354, rmse= 0.491489, auc= 0.787326
+epoch= 2, accuracy= 0.720361, rmse= 0.444656, auc= 0.801424
+epoch= 3, accuracy= 0.720599, rmse= 0.430027, auc= 0.807309
+epoch= 4, accuracy= 0.712640, rmse= 0.429963, auc= 0.804419
+epoch= 5, accuracy= 0.699335, rmse= 0.442506, auc= 0.796656
+epoch= 1, accuracy= 0.718460, rmse= 0.449654, auc= 0.800221
+epoch= 2, accuracy= 0.725826, rmse= 0.428667, auc= 0.805742
+epoch= 3, accuracy= 0.723450, rmse= 0.425898, auc= 0.807432
+epoch= 4, accuracy= 0.712877, rmse= 0.436787, auc= 0.799627
+epoch= 5, accuracy= 0.712876, rmse= 0.436787, auc= 0.799629
+
+
+
+epoch= 1, accuracy= 0.729615, rmse= 0.438947, auc= 0.808451
+epoch= 2, accuracy= 0.791114, rmse= 0.399689, auc= 0.858430
+epoch= 3, accuracy= 0.811737, rmse= 0.371094, auc= 0.885084
+epoch= 4, accuracy= 0.829865, rmse= 0.353604, auc= 0.901675
+epoch= 5, accuracy= 0.847030, rmse= 0.336896, auc= 0.915484
+epoch= 6, accuracy= 0.856474, rmse= 0.326175, auc= 0.924476
+epoch= 7, accuracy= 0.862853, rmse= 0.318620, auc= 0.932530
+epoch= 8, accuracy= 0.866880, rmse= 0.312719, auc= 0.937977
+epoch= 9, accuracy= 0.871418, rmse= 0.307411, auc= 0.941943
+epoch= 10, accuracy= 0.875422, rmse= 0.302108, auc= 0.945672
+
+
